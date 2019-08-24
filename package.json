@@ -1,0 +1,23 @@
+{
+  "author": "Jakub Hajduk <devhajduk@gmail.com>",
+  "name": "ngx-validators-manager",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakub-hajduk/ngx-validators-manager.git"
+  },
+  "keywords": [
+    "angular",
+    "validators",
+    "manager",
+    "async",
+    "forms",
+    "form",
+    "reactive"
+  ],
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/forms": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}
