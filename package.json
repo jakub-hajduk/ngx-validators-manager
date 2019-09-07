@@ -1,6 +1,7 @@
 {
   "author": "Jakub Hajduk <devhajduk@gmail.com>",
   "name": "ngx-validators-manager",
+  "licence": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jakub-hajduk/ngx-validators-manager.git"
