@@ -14,7 +14,7 @@ $ npm install --save ngx-validators-manager
 ```
 
 ## Adding module
-Just import `NgxValidatorsModule` to Your project
+Just import `ngx-validators-manager` to Your project
 ```typescript
 @NgModule({
   imports: [
@@ -29,7 +29,7 @@ It basically adds `validatorManager` property to Your controls. That's why You h
 
 1. Import stuff
 ```typescript
-import { VMFormBuilder, VMFormGroup } from 'NgxValidatorsManager';
+import { VMFormBuilder, VMFormGroup } from 'ngx-validators-manager';
 ```
 
 2. Use `VmFormBuilder`
